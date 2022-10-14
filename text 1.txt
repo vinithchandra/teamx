@@ -1,0 +1,5 @@
+count=0
+countalpha=
+
+f12=open("RD2.txt","r")
+print(f12.read())
